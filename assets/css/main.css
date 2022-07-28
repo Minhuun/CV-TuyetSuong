@@ -50,6 +50,7 @@ svg,img { max-width: 100%; height: auto; }
 .ds-excel {color: #228B22;}
 .ds-word { color: #0000CD;}
 .ds-powerpoint {color: #D2691E;}
+.ds-phone {color: #FFF; cursor: pointer; width: 50px; height: 50px;}
 /*-----------------------------------------------------------------
   2. >>> Banner Style
 ----------------------------------------------------------------*/

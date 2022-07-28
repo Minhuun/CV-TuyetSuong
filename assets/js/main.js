@@ -30,5 +30,7 @@ jQuery(document).ready(function($) {
 		});
 	})
 
-
+	$("#phone").click(function(){
+		alert("Số điện thoại của tôi: 0949 170 014")
+	})
 });
